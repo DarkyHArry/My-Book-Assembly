@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório! Se você chegou até aqui, provavelmente está ca
 
 ## As Linguagens de Alto Nível: Nossos Amigos Excessivamente Protetores
 
-Vamos ser honestos. Linguagens como Python, JavaScript e Java são ótimas. Elas nos permitem construir coisas incríveis com uma velocidade impressionante. Mas, a que custo? Elinguagens de alto nível são como pais superprotetores. Elas escondem de você os detalhes sujos, a verdadeira mecânica do computador. Você quer somar dois números? Em Python, é `a + b`. Simples, certo? Mas o que realmente acontece por baixo dos panos? Ah, isso é um segredo de família.
+Vamos ser honestos. Linguagens como Python, JavaScript e Java são ótimas. Elas nos permitem construir coisas incríveis com uma velocidade impressionante. Mas, a que custo? E linguagens de alto nível são como pais superprotetores. Elas escondem de você os detalhes sujos, a verdadeira mecânica do computador. Você quer somar dois números? Em Python, é `a + b`. Simples, certo? Mas o que realmente acontece por baixo dos panos? Ah, isso é um segredo de família.
 
 *   **Python:** "Não se preocupe com a memória, querido. Eu cuido de tudo!" (Enquanto isso, sua aplicação consome RAM como se fosse água no deserto).
 
